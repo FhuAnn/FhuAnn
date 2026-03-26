@@ -1,12 +1,12 @@
 # **Hello, I'm Phu An**🚀 
 
-🔭 Waiting to recevive Bachelor's Degree in Software Engineering at University of Information Technology, VNUHCM, Vietnam.
+🔭 Waiting to receive Bachelor's Degree in Software Engineering at University of Information Technology, VNUHCM, Vietnam.
 
-🌱 Currently, I am currently learning to improve my techincal knowledge, focusing on Backend Engineering.
+🌱 Currently, I am learning to improve my techincal knowledge, focusing on Backend Engineering.
 
 🕵️ Technology: React, JavaScript, TypeScript, C#.
 
-👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
+👨‍💻 All of my projects are available at [https://github.com/FhuAnn](https://github.com/FhuAnn)
 
 📫 Contact me: **anphuktpm34.se.work@gmail.com**<br>
 
