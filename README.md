@@ -31,12 +31,16 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FhuAnn&theme=dark&exclude_days=Mon)](https://git.io/streak-stats)<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FhuAnn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Top Languages"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FhuAnn&exclude_days=Mon" />
+</a>
+
+
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FhuAnn&layout=compact" />
+
+
+
+<img src="https://github-stats-extended.vercel.app/api?username=FhuAnn&show_icons=true&include_all_commits=true" />
 
 </div>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FhuAnn&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
