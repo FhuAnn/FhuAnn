@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
 # **Hello, I'm Phu An**🚀 
 
 🔭 Waiting to receive Bachelor's Degree in Software Engineering at University of Information Technology, VNUHCM, Vietnam.
@@ -35,4 +37,4 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anduc146khmt&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=FhuAnn&icon=0&color=0)](https://visitcount.itsvg.in)
