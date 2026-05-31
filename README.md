@@ -2,7 +2,7 @@
 
 # **Hello, I'm Phu An**🚀 
 
-🔭 Waiting to receive Bachelor's Degree in Software Engineering at University of Information Technology, VNUHCM, Vietnam.
+🔭 I recently graduated in Software Engineering at University of Information Technology, VNUHCM, Vietnam.
 
 🌱 Currently, I am learning to improve my techincal knowledge, focusing on Backend Engineering.
 
